@@ -6,11 +6,11 @@ public class StudentProfile {
         char grade='A';
         boolean enrolled=true;
 
-        System.out.println("Name:"+ name);
-        System.out.println("Age:"+ age);
-        System.out.println("CGPA:"+ cgpa);
-        System.out.println("Grade:"+ grade);
-        System.out.println("Enrolled:"+ enrolled);
+        System.out.println("Name: "+ name);
+        System.out.println("Age: "+ age);
+        System.out.println("CGPA: "+ cgpa);
+        System.out.println("Grade: "+ grade);
+        System.out.println("Enrolled: "+ enrolled);
 
     }
 }

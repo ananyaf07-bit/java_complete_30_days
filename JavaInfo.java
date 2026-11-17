@@ -4,6 +4,6 @@ public class JavaInfo{
         System.out.println("Course: B.Tech CSE");
         System.out.println("Language: Java");
         System.out.println("Day: 1");
-        System.out.println("Goal: Master Java in 30 Days");
+        System.out.println("Goal: Learn Java in 30 Days");
     }
 }

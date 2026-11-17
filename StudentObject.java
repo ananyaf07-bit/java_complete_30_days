@@ -14,12 +14,11 @@ public class StudentObject {
         Student student1 = new Student();
         Student student2 = new Student();
 
-        
-        student1.name = "Aarav";
+        student1.name = "raj";
         student1.age = 20;
         student1.cgpa = 8.7;
 
-        student2.name = "Priya";
+        student2.name = "Ananya";
         student2.age = 21;
         student2.cgpa = 9.2;
 
@@ -32,7 +31,7 @@ public class StudentObject {
         System.out.println("\n--- After Modifying Student 1's Age ---");
         student1.displayDetails();
         student2.displayDetails();
-        
+
         student1 = null;
         student2 = null;
 
